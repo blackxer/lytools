@@ -6,3 +6,5 @@
 
 # 测试模型的代码demo
 	test.py
+
+# 可视化caffe训练时生成的日志文件，方便观察loss和accuracy的变化趋势
